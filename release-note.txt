@@ -1,0 +1,38 @@
+- Fix bug booking (send address instead of location's name)
+- Fix bug wrong time display on profile screen
+- Fix bug UI (arrow collapse / extends) on tracking screen
+
+[1.2.0.2 / 5.2.0.2]
+- Fix bug date / time picker on IOS
+- Fix bug related to dark mode (Search panel, time / date picker, label, input, ...)
+- Fix issue component hided due to physical limitation of the screen (Iphone X - rounded corners or camera notches)
+- Add upload profile image function
+
+[1.2.0.3 / 5.2.0.3]
+Improve UI on statistic screen
+Fix bug display wrongly on debt history screen
+Crash report
+Bottom tab bar UI
+
+[1.2.0.4 / 5.2.0.4]
+Add premium booking, dept payment method function
+Fix bug edit time
+Improve UI
+
+[1.2.0.5 / 5.2.0.5]
+Fix UI issues on tracking, dept, statistic screen
+Improve app UI
+Quick login function
+
+[1.2.0.8 / 5.2.0.7]
+Integrate change password, reset password function
+Add debt detail screen
+Fix bug freeze on tracking screen
+Synchronize font
+Improve performance
+Fix UI issue on some screens
+
+[1.2.0.11 / ]
+New booking UI
+Change language function
+Fix bug and improve performance
